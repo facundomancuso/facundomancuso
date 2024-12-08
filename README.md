@@ -1,5 +1,6 @@
-### Hola 👋, Mi nombre es Facundo
-#### Software Developer
+# Hola 👋, Mi nombre es Facundo
+### Técnico Superior en Desarrollo de Software
+![Soy Desarrollador de Software](https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/BANNER_chico_FacundoMancuso.png)
 
 
 Soy un **Desarrollador de Software** de 27 años, originario de Córdoba, Argentina. Me gradué como **Técnico Superior en Desarrollo de Software** y, actualmente, me encuentro **especializándome en el apasionante mundo de los datos**. Mi enfoque está principalmente en **bases de datos e ingeniería de datos**, áreas que considero fundamentales para el desarrollo de soluciones tecnológicas modernas.
@@ -10,11 +11,16 @@ En febrero de 2024, comenzaré mi **Diplomatura en Bases de Datos** para profund
 
 Mi motivación principal es seguir **aprendiendo y profesionalizándome día a día**. Me apasiona enfrentar nuevos desafíos y contribuir con mis habilidades a proyectos innovadores que marquen una diferencia significativa. Estoy siempre en la búsqueda de nuevas oportunidades que me permitan **seguir aprendiendo y aportar mi experiencia en entornos colaborativos y dinámicos.**
 
-**Main Skills**: SQL, Python.
+# Main Skills 
+Lenguajes: SQL, Python.
+
 Frameworks y Librerías: Pandas, Request, Delta Lake.
+
 Software y Herramientas: Jupyter, Colab, MySQL, SQL Server, SqlDbx, Visual Studio Code.
 
-**Otras Skills**: PHP, .NET, Kotlin, HTML, CSS, XML.
+# Otras Skills 
+Lenguajes: PHP, .NET, Kotlin, HTML, CSS, XML.
+
 Software y Herramientas: XAMPP, Visual Studio, Android Studio, GitHub.
 
 
