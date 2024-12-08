@@ -1,6 +1,8 @@
 # Hola 👋, Mi nombre es Facundo
-### Técnico Superior en Desarrollo de Software
-![Soy Desarrollador de Software](https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/BANNER_chico_FacundoMancuso.png)
+#### Software Developer | Aspiring Data Architect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/BANNER_chico_FacundoMancuso.png" alt="Banner Facundo Mancuso">
+</p>
 
 
 Soy un **Desarrollador de Software** de 27 años, originario de Córdoba, Argentina. Me gradué como **Técnico Superior en Desarrollo de Software** y, actualmente, me encuentro **especializándome en el apasionante mundo de los datos**. Mi enfoque está principalmente en **bases de datos e ingeniería de datos**, áreas que considero fundamentales para el desarrollo de soluciones tecnológicas modernas.
