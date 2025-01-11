@@ -1,5 +1,5 @@
 # Hola 👋, Mi nombre es Facundo
-#### Software Developer | Aspiring Data Architect
+#### Aspiring Data Analyst | Software Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/BANNER_chico_FacundoMancuso.png" alt="Banner Facundo Mancuso">
 </p>
