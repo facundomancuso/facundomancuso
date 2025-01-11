@@ -5,13 +5,13 @@
 </p>
 
 
-Soy un **Desarrollador de Software** de 27 años, originario de Córdoba, Argentina. Me gradué como **Técnico Superior en Desarrollo de Software** y, actualmente, me encuentro **especializándome en el apasionante mundo de los datos**. Mi enfoque está principalmente en **bases de datos e ingeniería de datos**, áreas que considero fundamentales para el desarrollo de soluciones tecnológicas modernas.
+Soy un Desarrollador de Software de 27 años, originario de Córdoba, Argentina. Me gradué como Técnico Superior en Desarrollo de Software y, actualmente, me encuentro especializándome en el apasionante mundo de los datos. Mi enfoque está principalmente en el Análisis de Datos, área que considero fundamental para la toma de decisiones empresariales.
 
-A lo largo de mi carrera, he descubierto una gran **pasión por los datos y su estructura**, lo que me ha llevado a orientarme hacia el camino de **convertirme en Arquitecto de Datos** (Data Architect). Esta especialización me permitirá diseñar y optimizar arquitecturas de datos a gran escala, y trabajar en soluciones que mejoren la eficiencia y la toma de decisiones a partir de la información.
+A lo largo de mi carrera, he descubierto una gran pasión por los datos, lo que me ha llevado a orientarme hacia el rol de Analista de Datos (Data Analyst). Este camino me permitirá analizar, procesar y transformar grandes volúmenes de información para generar insights valiosos que mejoren la toma de decisiones y optimicen procesos.
 
-En febrero de 2024, comenzaré mi **Diplomatura en Bases de Datos** para profundizar mis conocimientos y perfeccionar mis habilidades en este campo.
+Actualmente, estoy realizando la capacitación de Google en Análisis de Datos para adquirir nuevas herramientas y conocimientos que me permitan perfeccionar mis habilidades en este campo, con el objetivo de convertirme en un profesional altamente capacitado en el análisis de datos.
 
-Mi motivación principal es seguir **aprendiendo y profesionalizándome día a día**. Me apasiona enfrentar nuevos desafíos y contribuir con mis habilidades a proyectos innovadores que marquen una diferencia significativa. Estoy siempre en la búsqueda de nuevas oportunidades que me permitan **seguir aprendiendo y aportar mi experiencia en entornos colaborativos y dinámicos.**
+Mi motivación principal es seguir aprendiendo y profesionalizándome día a día. Me apasiona enfrentar nuevos desafíos y contribuir con mis habilidades a proyectos innovadores que marquen una diferencia significativa. Siempre estoy en la búsqueda de nuevas oportunidades que me permitan seguir aprendiendo y aportar mi experiencia en entornos colaborativos y dinámicos.
 
 # Main Skills 
 Lenguajes: SQL, Python.
