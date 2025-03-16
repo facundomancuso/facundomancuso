@@ -13,17 +13,6 @@ Actualmente, estoy realizando la **capacitación de Google en Análisis de Datos
 
 Mi motivación principal es seguir **aprendiendo y profesionalizándome día a día**. Me apasiona enfrentar nuevos desafíos y contribuir con mis habilidades a proyectos innovadores que marquen una diferencia significativa. Siempre estoy en la búsqueda de nuevas oportunidades que me permitan **seguir aprendiendo y aportar mi experiencia en entornos colaborativos y dinámicos.**
 
-# Main Skills 
-Lenguajes: SQL, Python, .NET.
-
-Frameworks y Librerías: Pandas, Request, Delta Lake.
-
-Software y Herramientas: Excel, Jupyter, Colab, MySQL, SQL Server, SqlDbx, Visual Studio Code.
-
-# Otras Skills 
-Lenguajes: PHP, .NET, Kotlin, HTML, CSS, XML.
-
-Software y Herramientas: XAMPP, Visual Studio, Android Studio, GitHub.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/facundomancuso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundomancuso/)  
