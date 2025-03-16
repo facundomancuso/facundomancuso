@@ -1,7 +1,7 @@
 # Hola 👋, Mi nombre es Facundo
 #### Data Analyst | Software Developer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/BANNER_chico_FacundoMancuso.png" alt="Banner Facundo Mancuso">
+  <img src="https://raw.githubusercontent.com/facundomancuso/facundomancuso/refs/heads/main/banner-linkedin-4.png" alt="Banner Facundo Mancuso">
 </p>
 
 
