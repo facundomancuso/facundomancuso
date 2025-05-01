@@ -5,7 +5,8 @@
 </p>
 
 
-Profesional con formación en **desarrollo de software y especialización en análisis de datos.** Sólidas habilidades en comunicación, organización y pensamiento analítico, con capacidad para interpretar datos y generar información valiosa para la toma de decisiones.
+Profesional con formación en **desarrollo de software y especialización en análisis de datos.** 
+Sólidas habilidades en comunicación, organización y pensamiento analítico, con capacidad para interpretar datos y generar información valiosa para la toma de decisiones.
 
 
 
