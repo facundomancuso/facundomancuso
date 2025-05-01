@@ -5,13 +5,7 @@
 </p>
 
 
-Soy un Desarrollador de Software de 27 años, originario de Córdoba, Argentina. Me gradué como **Técnico Superior en Desarrollo de Software** y, actualmente, me encuentro **especializándome en el apasionante mundo de los datos**. Mi enfoque está principalmente en el **Análisis de Datos**, área que considero fundamental para la toma de decisiones empresariales.
-
-A lo largo de mi carrera, he descubierto una gran **pasión por los datos**, lo que me ha llevado a orientarme hacia el rol de **Analista de Datos** (Data Analyst). Este camino me permitirá analizar, procesar y transformar grandes volúmenes de información para generar perspectivas valiosas que mejoren la toma de decisiones y optimicen procesos.
-
-Actualmente, estoy realizando la **capacitación de Google en Análisis de Datos** para adquirir nuevas herramientas y conocimientos que me permitan perfeccionar mis habilidades en este campo, con el objetivo de convertirme en un profesional altamente capacitado en el análisis de datos.
-
-Mi motivación principal es seguir **aprendiendo y profesionalizándome día a día**. Me apasiona enfrentar nuevos desafíos y contribuir con mis habilidades a proyectos innovadores que marquen una diferencia significativa. Siempre estoy en la búsqueda de nuevas oportunidades que me permitan **seguir aprendiendo y aportar mi experiencia en entornos colaborativos y dinámicos.**
+Profesional con formación en **desarrollo de software y especialización en análisis de datos.** Sólidas habilidades en comunicación, organización y pensamiento analítico, con capacidad para interpretar datos y generar información valiosa para la toma de decisiones.
 
 
 
